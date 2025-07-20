@@ -1,3 +1,4 @@
+
 .rojo{
     color: red;
 }
@@ -16,4 +17,28 @@
 
 h1{
     color: aqua;
+}
+
+.contenedor1{
+    background-color: rgba(255, 0, 0, 0.493);
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+}
+.contenedor2{
+    background-color: rgba(0, 26, 255, 0.589);
+}
+
+.contenedor3{
+    background-color: rgba(18, 211, 18, 0.719);
+}
+
+.conternedor4{
+    background-color: rgba(134, 134, 13, 0.801);
+}
+.contenedor5{
+    background-color: rgba(179, 70, 70, 0.671);
+}
+
+.contenedor6 h1{
+    background-color: rgba(17, 102, 102, 0.801);
 }
